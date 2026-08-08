@@ -1,0 +1,120 @@
+{
+  "info": {
+    "name": "Virtuosa Inspiração",
+    "tagline": "Elegância, qualidade e inspiração para toda a família.",
+    "whatsapp": "5524981312574",
+    "instagram": "@virtuosainspiracao",
+    "email": "contato@virtuosainspiracao.com.br"
+  },
+  "categories": ["Roupas", "Calçados", "Acessórios", "Perfumaria", "Utilidades para o Lar"],
+  "products": [
+    {
+      "id": "p1",
+      "name": "Vestido Midi Elegante",
+      "price": 119.9,
+      "compareAtPrice": 149.9,
+      "category": "Roupas",
+      "sizes": "P, M, G",
+      "description": "Vestido midi em viscose fluida, caimento leve.",
+      "imageUrl": "",
+      "novidade": false,
+      "maisVendido": false
+    },
+    {
+      "id": "p2",
+      "name": "Tênis Casual Feminino",
+      "price": 169.9,
+      "compareAtPrice": 199.9,
+      "category": "Calçados",
+      "sizes": "35, 36, 37, 38",
+      "description": "Tênis leve para o dia a dia.",
+      "imageUrl": "",
+      "novidade": false,
+      "maisVendido": false
+    },
+    {
+      "id": "p3",
+      "name": "Bolsa Transversal",
+      "price": 99.9,
+      "compareAtPrice": 129.9,
+      "category": "Acessórios",
+      "sizes": "",
+      "description": "Bolsa transversal em couro sintético.",
+      "imageUrl": "",
+      "novidade": false,
+      "maisVendido": false
+    },
+    {
+      "id": "p4",
+      "name": "Jaqueta Jeans Oversize",
+      "price": 169.9,
+      "compareAtPrice": 0,
+      "category": "Roupas",
+      "sizes": "P, M, G, GG",
+      "description": "Jaqueta jeans oversize, lavagem clara.",
+      "imageUrl": "",
+      "novidade": true,
+      "maisVendido": false
+    },
+    {
+      "id": "p5",
+      "name": "Perfume Feminino Inspiração",
+      "price": 179.9,
+      "compareAtPrice": 0,
+      "category": "Perfumaria",
+      "sizes": "",
+      "description": "Eau de parfum 100ml, fragrância floral amadeirada.",
+      "imageUrl": "",
+      "novidade": true,
+      "maisVendido": false
+    },
+    {
+      "id": "p6",
+      "name": "Sandália Rasteira Conforto",
+      "price": 89.9,
+      "compareAtPrice": 0,
+      "category": "Calçados",
+      "sizes": "34, 35, 36, 37, 38",
+      "description": "Sandália rasteira em couro legítimo.",
+      "imageUrl": "",
+      "novidade": true,
+      "maisVendido": false
+    },
+    {
+      "id": "p7",
+      "name": "Vestido Midi Canelado",
+      "price": 139.9,
+      "compareAtPrice": 0,
+      "category": "Roupas",
+      "sizes": "P, M, G",
+      "description": "Vestido canelado, tecido com leve elastano.",
+      "imageUrl": "",
+      "novidade": false,
+      "maisVendido": true
+    },
+    {
+      "id": "p8",
+      "name": "Tênis Casual Branco",
+      "price": 189.9,
+      "compareAtPrice": 0,
+      "category": "Calçados",
+      "sizes": "35, 36, 37, 38, 39",
+      "description": "Tênis branco versátil, solado emborrachado.",
+      "imageUrl": "",
+      "novidade": false,
+      "maisVendido": true
+    },
+    {
+      "id": "p9",
+      "name": "Bolsa Tote Elegante",
+      "price": 159.9,
+      "compareAtPrice": 0,
+      "category": "Acessórios",
+      "sizes": "",
+      "description": "Bolsa tote espaçosa, alças reforçadas.",
+      "imageUrl": "",
+      "novidade": false,
+      "maisVendido": true
+    }
+  ]
+}
